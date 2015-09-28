@@ -1,0 +1,10 @@
+user_namespace: "user:"
+token_namespace: "token:"
+auth_realm: "klouds"
+port: 5000
+master_user: "user"
+master_pass: "password"
+agent_url: "http://127.0.0.1:8080"
+redis_server: "tcp://127.0.0.1:6379"
+redis_password: "redis"
+hmac_key: "someSaltySalts"
